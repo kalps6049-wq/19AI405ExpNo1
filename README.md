@@ -105,9 +105,7 @@ agent.perform_action("nothing")
 agent.print_status()
 ```
 ## Output:
-<img width="907" height="202" alt="WhatsApp Image 2026-07-24 at 10 35 01" src="https://github.com/user-attachments/assets/2b80d406-3ec9-4c62-903d-2e2350431bf4" />
-
-
+<img width="915" height="347" alt="image" src="https://github.com/user-attachments/assets/d32979b0-321f-4e7b-8c90-e9ac8670ccdc" />
 
 ## Result:
 
